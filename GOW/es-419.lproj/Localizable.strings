@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  GOW
+
+ Created by Alberti Ulises on 09/03/24.
+  
+*/
+
+/* MENU*/
+"menu.option.videogames" = "Videojuegos";
+"menu.option.weapons" = "Armas";
+"menu.option.characters" = "Personajes";
+"menu.option.merchandise" = "Mercancía";
+
+/* WEAPONS */
+"weapon.name.boomshot" = "Lanzagranadas Boomshot";
+"weapon.description.boomshot" = "Era un lanzagranadas de bombeo de un solo disparo diseñado y utilizado principalmente por los Locust, en particular por el Boomer.";
+"weapon.name.hammerburstii" = "Hammerburst II";
+"weapon.description.hammerburstii" = "Era el rifle de asalto estándar de alta potencia Locust. A menudo se le denomina la contraparte Locust del rifle de asalto COG Lancer.";
+"weapon.name.mulcher" = "Mulcher";
+"weapon.description.mulcher" = "El Mulcher es un pesado rifle Gatling giratorio de manivela desarrollado por la Coalición de Gobiernos Ordenados.";
+"weapon.name.bolo_grenade" = "Granada Bolo";
+"weapon.description.bolo_grenade" = "La Granada Bolo, también conocida como Granada de Fragmentación, era la granada de fragmentación estándar utilizada por la Coalición de Gobiernos Ordenados, la Horda Locust y la Colmena.";
+"weapon.name.boltok" = "Pistola Boltok";
+"weapon.description.boltok" = "Era el arma estándar de los Locust, en particular de los Drones. La pistola sigue la filosofía de diseño de armas Locust de crear armas con un énfasis en la fuerza bruta.";
+"weapon.name.lancer" = "Rifle de asalto Lancer Mark 1";
+"weapon.description.lancer" = "Apodado Retro Lancer durante la Pandemia Lambent, fue el predecesor del rifle de asalto Lancer Mark 2. Anteriormente el rifle de asalto principal del ejército de la Coalición de Gobiernos Ordenados, el rifle de asalto Mark 1 se utilizó durante la Guerra del Péndulo.";
+"weapon.name.lancer2" = "Rifle de asalto Lancer Mark 2";
+"weapon.description.lancer2" = "Una actualización del rifle de asalto Lancer Mark 1, producido con una bayoneta de motosierra, mayor precisión, menor retroceso y mayor capacidad de munición pero menor potencia de fuego que su predecesor.";
+"weapon.name.sniper" = "Rifle de francotirador de largo alcance";
+"weapon.description.sniper" = "Era un rifle de francotirador de un solo disparo de calibre grueso. Creado por la Coalición de Gobiernos Ordenados durante las Guerras Péndulo, el Longshot también se utilizó diecisiete años después del Día de Emergencia.";
+"weapon.name.hammer_of_dawn" = "Martillo del Amanecer";
+"weapon.description.hammer_of_dawn" = "El Martillo del Amanecer era un láser orbital, basado en satélite, alimentado por Imulsión COG. Sus componentes clave fueron inventados por el científico de la UIR Mauris Ivo y completados por el profesor Adam Fenix después de ser robado durante la Operación: Leveler.";
+"weapon.name.mx8" = "Pistola MX8";
+"weapon.description.mx8" = "Era el arma lateral estándar para el personal de las fuerzas armadas de la Coalición de Gobiernos Ordenados";
